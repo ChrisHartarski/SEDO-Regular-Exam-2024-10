@@ -1,3 +1,3 @@
 # SEDO-Regular-Exam-2025-01
 
-edit readme to check action
+some change to Readme to check Jenkins CI
